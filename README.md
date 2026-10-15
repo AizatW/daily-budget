@@ -8,7 +8,14 @@ A personal finance web application built using Laravel, PHP, MySQL, and JavaScri
 
 Daily budget is deployed on Laravel Cloud with a MySQL database hosted on Aiven.
 
-A demo account with fictional financial transactions is available for exploring the application's features.
+## Try the Application
+
+1. Visit the [Daily Budget Website](https://daily-budget-production-uqcwxr.laravel.cloud/).
+2. Register a new account.
+3. Add income and expense transactions.
+4. Explore the dashboard, charts, monthly summaries, search and filters.
+
+Each user has their own private transaction records.
 
 
 ## Features
