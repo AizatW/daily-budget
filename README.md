@@ -2,6 +2,15 @@
 
 A personal finance web application built using Laravel, PHP, MySQL, and JavaScript. Daily Budget helps users record income and expenses, monitor monthly spending, and visualize their financial activity through an interactive dashboard.
 
+## Live Demo
+
+**website**: https://daily-budget-production-uqcwxr.laravel.cloud
+
+Daily budget is deployed on Laravel Cloud with a MySQL database hosted on Aiven.
+
+A demo account with fictional financial transactions is available for exploring the application's features.
+
+
 ## Features
 
 - **User Authentication**: Register, log in and log out securely
